@@ -1,0 +1,6 @@
+{
+  "name": "AMOLED Line Guard",
+  "description": "Utilidad de superposición de ultra-bajo consumo y escáner de píxeles detonantes para apagar o atenuar líneas verdes en pantallas AMOLED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

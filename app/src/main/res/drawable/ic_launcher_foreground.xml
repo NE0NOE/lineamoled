@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer smartphone calibration frame -->
+    <path
+        android:fillColor="#00B0FF"
+        android:pathData="M36,24h36c3.3,0 6,2.7 6,6v48c0,3.3 -2.7,6 -6,6H36c-3.3,0 -6,-2.7 -6,-6V30c0,-3.3 2.7,-6 6,-6zM38,31v46h32V31H38z" />
+    <!-- Top and bottom line segments being suppressed in the middle -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M51,26h6v18h-6zM51,64h6v18h-6z" />
+    <!-- Central pixel suppressor reticle shield -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M42,48h24v12H42z" />
+</vector>

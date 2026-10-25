@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AMOLED Line Guard</string>
+    <string name="accessibility_service_label">AMOLED Line Guard (Superposición)</string>
+    <string name="accessibility_service_description">Dibuja una máscara de píxeles negros de ultra-bajo consumo sobre líneas verdes o defectuosas de la pantalla AMOLED sin mostrar notificaciones ni consumir CPU.</string>
+    <string name="quick_tile_label">Línea AMOLED</string>
+    <string name="tab_calibrator">Calibrador</string>
+    <string name="tab_scanner">Escáner Píxel</string>
+    <string name="tab_efficiency">Motor y Guía</string>
+</resources>
